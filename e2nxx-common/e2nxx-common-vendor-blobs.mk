@@ -42,6 +42,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:system/vendor/lib/rfsa/adsp/libdspCV_skel.so \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:system/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
+    vendor/lge/e2nxx-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/lge/e2nxx-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/lge/e2nxx-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/e2nxx-common/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
     vendor/lge/e2nxx-common/proprietary/lib/libmmcamera_hi543.so:system/lib/libmmcamera_hi543.so \
