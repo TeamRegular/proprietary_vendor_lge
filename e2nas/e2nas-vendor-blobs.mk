@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nas/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/e2nas/proprietary/bin/rild:system/bin/rild \
     vendor/lge/e2nas/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/lge/e2nas/proprietary/lib/liblgderp.so:system/lib/liblgderp.so \
     vendor/lge/e2nas/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/e2nas/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
     vendor/lge/e2nas/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
