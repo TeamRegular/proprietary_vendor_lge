@@ -184,11 +184,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nxx-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
-    vendor/lge/e2nxx-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/lge/e2nxx-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt
+    vendor/lge/e2nxx-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so
