@@ -91,6 +91,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
+    vendor/lge/e2nxx-common/proprietary/vendor/firmware/widevine.b00:system/vendor/firmware/widevine.b00 \
+    vendor/lge/e2nxx-common/proprietary/vendor/firmware/widevine.b01:system/vendor/firmware/widevine.b01 \
+    vendor/lge/e2nxx-common/proprietary/vendor/firmware/widevine.b02:system/vendor/firmware/widevine.b02 \
+    vendor/lge/e2nxx-common/proprietary/vendor/firmware/widevine.b03:system/vendor/firmware/widevine.b03 \
+    vendor/lge/e2nxx-common/proprietary/vendor/firmware/widevine.mdt:system/vendor/firmware/widevine.mdt \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/lge/e2nxx-common/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/lge/e2nxx-common/proprietary/lib/libchromatix_hi543_common.so:system/lib/libchromatix_hi543_common.so \
