@@ -19,15 +19,18 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nam/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/e2nam/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/lge/e2nam/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/lge/e2nam/proprietary/bin/rild:system/bin/rild \
     vendor/lge/e2nam/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/lge/e2nam/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
+    vendor/lge/e2nam/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/lge/e2nam/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/lge/e2nam/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/e2nam/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
     vendor/lge/e2nam/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/e2nam/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
     vendor/lge/e2nam/proprietary/lib/libvss_nv_core.so:system/lib/libvss_nv_core.so \
     vendor/lge/e2nam/proprietary/lib/libvss_nv_idl.so:system/lib/libvss_nv_idl.so \
     vendor/lge/e2nam/proprietary/lib/libvss_nv_iface.so:system/lib/libvss_nv_iface.so \
+    vendor/lge/e2nam/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/lge/e2nam/proprietary/vendor/lib/lib-dplmedia.so:system/vendor/lib/lib-dplmedia.so \
@@ -38,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nam/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/lge/e2nam/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
+    vendor/lge/e2nam/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
@@ -51,6 +55,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e2nam/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/lge/e2nam/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/lge/e2nam/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
+    vendor/lge/e2nam/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
+    vendor/lge/e2nam/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/lge/e2nam/proprietary/vendor/lib/lib-rtpcommon.so:system/vendor/lib/lib-rtpcommon.so \
     vendor/lge/e2nam/proprietary/vendor/lib/lib-rtpcore.so:system/vendor/lib/lib-rtpcore.so \
     vendor/lge/e2nam/proprietary/vendor/lib/lib-rtpdaemoninterface.so:system/vendor/lib/lib-rtpdaemoninterface.so \
